@@ -1,0 +1,1 @@
+The Lipogram Program helps create and verify lipograms. In this code our output contained a list of offending words in the right side of the box. The user can also load a text file or enter their own text in the box on the left. 
